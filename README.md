@@ -11,5 +11,8 @@ Here is a preview of the deployed website.
  ## Support
  For help with this website, please email me at anna.yesaulov@gmail.com
 
+ ##Contributing
+ This code originally came from the DU Coding Bootcamp Class File as a Challenge assignment, I did not create it- simply edited a few pieces of it.
+
  ## License
  [MIT](https://choosealicense.com/licenses/mit/)
