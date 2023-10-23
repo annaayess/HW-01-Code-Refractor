@@ -1,3 +1,15 @@
 # HW-01-Code-Refractor
-HW Assignment due 10-23 Code Refractor
- 10-22-23
+
+## HW Assignment- Code Refractor
+
+The purpose of this project was to make a website more accessible and to clean up the code a bit. I changed a few of the 'div' labels into other HTML elements, like 'section' or 'aside' for example. The Image elements also needed to have 'alt' attributes added so I worked on adding those as well. HTML and CSS codes are included.
+ 
+ ## Visuals
+Here is a preview of the deployed website.
+ ![Alt text](image.png)
+
+ ## Support
+ For help with this website, please email me at anna.yesaulov@gmail.com
+
+ ## License
+ [MIT](https://choosealicense.com/licenses/mit/)
